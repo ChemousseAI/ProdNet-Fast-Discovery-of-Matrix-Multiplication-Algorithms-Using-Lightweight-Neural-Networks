@@ -5,7 +5,7 @@
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](#)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange)](#)
-[![License](https://img.shields.io/badge/License-MIT-green)](#)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 This repository contains the official implementation of our published work: "ProdNet: Fast Discovery of Matrix Multiplication Algorithms Using Lightweight Neural Networks" (*this work has been published in 03 June 2026*)
 
