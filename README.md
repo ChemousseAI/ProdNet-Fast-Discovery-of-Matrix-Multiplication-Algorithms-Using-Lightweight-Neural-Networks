@@ -165,11 +165,11 @@ ProdNet successfully discovers multiplication algorithms requiring **23 Multipli
 
 The algorithm was discovered automatically through training without embedding prior knowledge of existing matrix multiplication schemes.
 
-The algorithm discovered for 3 by 3 matrices size:
+- The algorithm discovered for 3 by 3 matrices size:
 
 <img width="508" height="823" alt="image" src="https://github.com/user-attachments/assets/1a33944c-a753-4ab4-b47e-1a6d893dfcb7" />
 
-Model convergence for 3 by 3 matrix size:
+- Model convergence for 3 by 3 matrix size:
 
 <img width="626" height="379" alt="image" src="https://github.com/user-attachments/assets/f60866ef-f703-4345-96b8-d023bc4a33d7" />
 
